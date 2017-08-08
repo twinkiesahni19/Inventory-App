@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="no_data_available">No data Available</string>
+    <string name="add_item">Add Item</string>
+    <string name="sale">Sale</string>
+    <string name="name">NAME:</string>
+    <string name="enter_item_name">Enter Item Name</string>
+    <string name="quantity">QUANTITY:</string>
+    <string name="price">PRICE:</string>
+    <string name="enter_item_quantity">Enter Item Quantity</string>
+    <string name="enter_item_price">Enter Item Price</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="delete_all_items">Delete All Items</string>
+    <string name="_0">0</string>
+    <string name="delete_all">Delete All</string>
+</resources>
